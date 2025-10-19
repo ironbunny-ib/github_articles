@@ -37,8 +37,6 @@ Combines psychological traits, values, and attitudes with behavioral data. Tools
 
 Emerging as privacy regulations tighten. Rather than inferring preferences, companies ask customers directly through surveys, preferences centers, or interactive experiences, then segment based on explicit preferences and stated needs.
 
-+ <https://al-kindipublishers.org/index.php/jcsts/article/view/9940>
-
 ### AI-Driven Dynamic Segmentation
 
 Uses continuous learning models to automatically adjust segments in real-time as customer behavior evolves, rather than static quarterly or annual resets.
