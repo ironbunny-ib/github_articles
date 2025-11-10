@@ -32,7 +32,7 @@ This is work that is based on general business levers. These are based on charac
 
 ![Independent Work](../logistics/independent_work.png)
 
-**Independent Work can be Seen in:**
+Independent Work can be Seen in:
 + Direct Reasoning (Observable to a Fresh Mind)
 + Data Vision by Experienced Eyes
     + Data Mastery
