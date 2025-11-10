@@ -39,5 +39,5 @@ Independent Work can be seen in:
     + Domain Mastery
 + AI Prompting
 + Delving into Hard Thinking
-    + Goal Led
+    + Objective Led
     + Curiosity Led
