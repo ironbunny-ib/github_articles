@@ -1,0 +1,31 @@
+# E-commerce: Service Analysis
+
+## Mostly Simple Analysis and Some Ideas 
+
+### Products
++ Best Products by Quantity Sold and Respective Revenue
++ Best Product Categories by Quantity Sold and Respective Revenue
++ Worst Products by Quantity Sold and Respective Revenue (to probably stop selling)
+
+### Customers
++ Frequency of purchase, Total Amount Spent respective to Customers
+    + Best Customers
+    + Worst Customers
+    + nTile of Customers
++ Customer Wise Product Breakdown
+    + All Customers
+    + Selected Customer
+    + (Reverse) Product Wise Customers
++ Customer Loyalty
+    + (Examples)
+    + Duration between First and Last Purchase 
++ Other Customer Segmentation, Retention
++ Non-Customer Funnel Segmentation, Targeting
+    + Analysis of Content used for Targeting
++ A/B Testing Positioning, Design
+
+### World
++ Day Wise, Week Wise, Month Wise ... Sales Trends
+    + (Examples)
+    + Growth Rate Month over Month
++ Inter Region Sales Comparison and Intra Region Sales Trends
